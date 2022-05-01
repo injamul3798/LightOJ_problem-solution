@@ -1,5 +1,8 @@
-#include <iostream>
+//Md.Injamul Haque
+//BSc in CSE,DIU
 
+
+#include <iostream>
 using namespace std;
 
 int main()
